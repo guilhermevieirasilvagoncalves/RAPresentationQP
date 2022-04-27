@@ -1,0 +1,93 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "L3",
+					"strict" : false
+				},
+				{
+					"name" : "L2",
+					"strict" : false
+				},
+				{
+					"name" : "L1",
+					"strict" : false
+				},
+				{
+					"name" : "L0",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0A",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0B",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0C",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0D",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0E",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0F",
+					"strict" : false
+				},
+				{
+					"name" : "HEX0G",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1A",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1B",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1C",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1D",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1E",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1F",
+					"strict" : false
+				},
+				{
+					"name" : "HEX1G",
+					"strict" : false
+				},
+				{
+					"name" : "S0",
+					"strict" : false
+				},
+				{
+					"name" : "S2",
+					"strict" : false
+				},
+				{
+					"name" : "S1",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,30 @@
+|HEX0
+Seg_A <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+S2 => inst16.IN0
+S2 => inst.IN0
+S2 => inst19.IN0
+S2 => inst25.IN0
+S2 => inst8.IN0
+S2 => inst14.IN0
+S1 => inst16.IN1
+S1 => inst1.IN0
+S1 => inst19.IN1
+S1 => inst22.IN0
+S1 => inst25.IN1
+S1 => inst8.IN1
+S1 => inst11.IN0
+S0 => inst16.IN2
+S0 => inst2.IN0
+S0 => inst22.IN1
+S0 => inst25.IN2
+S0 => inst7.IN2
+S0 => inst11.IN1
+S0 => inst14.IN1
+Seg_B <= inst20.DB_MAX_OUTPUT_PORT_TYPE
+Seg_C <= inst24.DB_MAX_OUTPUT_PORT_TYPE
+Seg_D <= inst25.DB_MAX_OUTPUT_PORT_TYPE
+Seg_E <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+Seg_F <= inst13.DB_MAX_OUTPUT_PORT_TYPE
+Seg_G <= inst14.DB_MAX_OUTPUT_PORT_TYPE
+
+
